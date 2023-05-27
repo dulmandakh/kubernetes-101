@@ -1,5 +1,10 @@
 # DevSummit 2023 - Kubernetes 101
 
+Хамгийн амархан Kubernetes дээр юм хийж турших арга бол
+
+1. [DigitalOcean](https://m.do.co/c/a0d93b64fde2) дээр эрх үүсгээд 60 хоногийн $200 эрх аваад Kubernetes үүсгэх
+2. [DigitalOcean](https://m.do.co/c/a0d93b64fde2) дээр эрх үүсгээд 60 хоногийн $200 эрх аваад Droplet үүсгээд *Microk8s* доорх зааврын дагуу суулгах
+3. Ubuntu дээр *snap install microk8s --classic --channel 1.27* гэж тушаалаар суулгах. *microk8s enable ingress* гэж байж гаднаас хүсэлт авах боломжтой болно.
 
 ## 1. namespace үүсгэх
 
