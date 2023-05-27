@@ -5,6 +5,7 @@ metadata:
   namespace: kubernetes-101
 spec:
   rules:
+  # энд өөрийн IP хаяг эсвэл домэйнийг бичиж өгөх хэрэгтэй
   - host: kubernetes-101.45.117.32.201.nip.io
     http:
       paths:
